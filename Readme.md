@@ -9,6 +9,15 @@ Conceived by [Andrew Sprinz](http://github.com/andrewsprinz). Maintained by [Chr
 ## Quick start
 
 Full documentation can be found [here](http://madebymany.github.io/sir-trevor-js/docs.html).
+## Upcoming updates to this forked version of sir-trevor-js.
+
+ Main intention is to make to Editor more flexible and dynamic, which is accomplished partly by achieving the following 
+- Extended constructor options for the SirTrevor Editor(such as giving a dataset to use for building blocks or creating a non-editable editor)
+- Implement non-implemented functions(Embedly for example)
+- Allow Editor to sync block content to different specified locations in different formats
+- Create different sets of UI for the block controls 
+- Make it easier to style the editor
+
 
 ### Plain JS
 
